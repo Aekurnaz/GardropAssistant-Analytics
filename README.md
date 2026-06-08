@@ -22,5 +22,12 @@ To make evaluating this project as easy as possible, everything is neatly organi
 
 📌 **Note: The dataset used in this project is entirely synthetic and generated via AI for demonstration and portfolio purposes. It does not represent any real company, users, or actual business data.**
 
+## 👁️ Visual Showcase
+<img width="938" height="861" alt="image" src="https://github.com/user-attachments/assets/5faca062-6462-423c-b449-52542594e281" />
+<img width="941" height="862" alt="image" src="https://github.com/user-attachments/assets/575b63b3-e8ce-4782-8980-b17681c6443a" />
+<img width="940" height="865" alt="image" src="https://github.com/user-attachments/assets/f60bb00f-3962-41c2-a369-e7d246294519" />
+<img width="932" height="868" alt="image" src="https://github.com/user-attachments/assets/b65831dc-6735-41d1-934a-50f589abdec2" />
+<img width="947" height="862" alt="image" src="https://github.com/user-attachments/assets/48bfdf88-1a86-40ec-b12d-ed55f8d9b8f7" />
+
 ---
 **Author:** Ali Erdem Kurnaz | JR. Data Analyst
